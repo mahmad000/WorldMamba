@@ -1,4 +1,4 @@
-# WorldMamba: World-State Representation Learning for Hyperspectral Image Classification
+# WorldMamba: World-State Representation Learning for Hyperspectral Image Classification[https://ieeexplore.ieee.org/document/11640768]
 
 <img width="5082" height="1974" alt="WorldMamba" src="https://github.com/user-attachments/assets/6eb72ec5-460a-4811-ade2-9320ed084047" />
 
@@ -46,11 +46,14 @@ representations instead of a single discriminative embedding.
 
 ------------------------------------------------------------------------
 # Citation
-    @article{Ahmad2026WorldMamba,
-      title={WorldMamba: World-State Representation Learning for Hyperspectral Image Classification},
-      author={Muhammad Ahmad and Anna Maslovskaya and Manuel Mazzara},
-      journal={IEEE Geoscience and Remote Sensing Letters},
-      year={2026}
-    }
+    @ARTICLE{11640768,
+  author={Ahmad, Muhammad and Maslovskaya, Anna and Mazzara, Manuel},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={WorldMamba: World-State Representation Learning for Hyperspectral Image Classification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LGRS.2026.3719470}}
 
 ## If you find this repository useful, please consider starring it and citing our paper.
