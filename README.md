@@ -54,6 +54,6 @@ representations instead of a single discriminative embedding.
       volume={},
       number={},
       pages={1-1},
-      doi={10.1109/LGRS.2026.3719470}}
+      doi={\url{https://doi.org/10.1109/LGRS.2026.3719470}}}
 
 ## If you find this repository useful, please consider starring it and citing our paper.
