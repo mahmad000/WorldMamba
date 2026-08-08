@@ -1,4 +1,4 @@
-# WorldMamba: World-State Representation Learning for Hyperspectral Image Classification[https://ieeexplore.ieee.org/document/11640768]
+# [WorldMamba](https://ieeexplore.ieee.org/document/11640768): World-State Representation Learning for Hyperspectral Image Classification
 
 <img width="5082" height="1974" alt="WorldMamba" src="https://github.com/user-attachments/assets/6eb72ec5-460a-4811-ade2-9320ed084047" />
 
