@@ -47,13 +47,13 @@ representations instead of a single discriminative embedding.
 ------------------------------------------------------------------------
 # Citation
     @ARTICLE{11640768,
-  author={Ahmad, Muhammad and Maslovskaya, Anna and Mazzara, Manuel},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={WorldMamba: World-State Representation Learning for Hyperspectral Image Classification}, 
-  year={2026},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LGRS.2026.3719470}}
+      author={Ahmad, Muhammad and Maslovskaya, Anna and Mazzara, Manuel},
+      journal={IEEE Geoscience and Remote Sensing Letters}, 
+      title={WorldMamba: World-State Representation Learning for Hyperspectral Image Classification}, 
+      year={2026},
+      volume={},
+      number={},
+      pages={1-1},
+      doi={10.1109/LGRS.2026.3719470}}
 
 ## If you find this repository useful, please consider starring it and citing our paper.
